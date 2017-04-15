@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Jmhw9</string>
+
+
+    <string name="leg">Legislators</string>
+    <string name="leg_info">Legislator info</string>
+
+
+    <string name="bil">Bills</string>
+    <string name="bil_info">Bill Info</string>
+
+    <string name="com">Committees</string>
+    <string name="fav">Favourites</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
